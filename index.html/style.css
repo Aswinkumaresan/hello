@@ -1,0 +1,78 @@
+body{
+	margin: 10px 20px 10px 20px;
+	border:2px double green;
+	}
+h1{
+	color: red;
+	text-align: center;
+	font-size: 60px;
+	font-weight: bold;
+	font-style: italic;
+}
+h2{
+	color: blue;
+	font-size: 20px;
+	line-height: 25px;
+	font-weight: bold;	
+}
+.mailto{
+	font-size: 20px;
+	color:brown;
+}
+
+table,td,th,tr{
+	text-align: center;
+	background-color: grey;
+	color:red;
+	margin: 10px 10px 10px 100px;
+	border:1px solid black;
+	padding: 20px 20px 20px 20px;
+	width:10%;
+}
+.objective {
+	color: red;
+	font-size: 20px;
+	font-style: italic;
+}
+p{
+	font-size: 100;
+}
+.educational {
+	color: blue;
+	font-size: 20px;
+	font-style: bold;
+}
+.professional{
+	color: orange;
+	font-size:20px;
+	font-style: bold;
+}
+.Software{
+	color: green;
+	font-size: 20px;
+	font-style: italic;
+}
+.Project{
+	color: pink;	
+	font-size: 20px;
+	font-style: bold;
+}
+.personal{
+	color: green;
+	font-size: 20px;
+	font-style: italic;
+}
+.area{
+	color: orange;
+	font-size: 20px;
+	font-style: bold;
+}
+.co-curricular{
+	color: blue;
+	font-size: 20px;
+	font-style: italic;
+}
+.Extra-curricular{
+	font-size: 20px;
+	font-style: bold;
+}
